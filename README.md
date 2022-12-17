@@ -1,5 +1,5 @@
 <h2 align="center">
-  DALL-E API နဲ့  React.Js ကို သုံးပြီး ပုံတွေ Generate လုပ်ကြည့်ကြမယ် <br/>
+  Generate Images Using DALL-E API & React.Js <br/>
 </h2>
 <div align="center">
   <img alt="Demo" src="/home.png" />
@@ -7,7 +7,7 @@
 
 <br/>
 
-[OpenAI](https://beta.openai.com/playground) အကောင့်အပြင် React.Js & Vite ဖြင့် ရေးဖြင့် ရေသားထားပါသည်။
+Firstly [OpenAI](https://beta.openai.com/playground) account is open . It also written with React.Js & Vite .
 
 Setting up locally
 1. Clone the repo
