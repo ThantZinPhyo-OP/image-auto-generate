@@ -12,7 +12,7 @@
 Setting up locally
 1. Clone the repo
 ```{r, engine='bash', count_lines}
-git clone https://github.com/ThantZinPhyo-OP/image-generate-openai.git
+git clone https://github.com/ThantZinPhyo-OP/image-auto-search.git
 ```
 
 2. Update .env file with specfic keys
